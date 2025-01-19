@@ -6,7 +6,7 @@
   The goal of this project is to test the functionalities of the Tutorials Ninja web application. This document serves as a high-level test planning document, outlining the scope, test strategy, test schedule, resource requirements, test deliverables, and schedule. The testing will be conducted using Selenium for automation, Cucumber for behavior-driven testing, and Page Object Model (POM) for organizing the code. Additionally, manual testing will be performed for exploratory and usability testing.
 
 ## Project Type :
-  This project focuses on both manual and automated testing of the Thirsty Wine website's frontend. It emphasizes the use of the Page Object Model (POM) for structuring automation tests in Cypress, ensuring maintainability and reusability. The testing covers functionality, usability, and cross-browser/device compatibility, with BDD Cucumber used for clear test specifications.
+  This project focuses on both manual and automated testing of the Tutorials-Ninja website's frontend. It emphasizes the use of the Page Object Model (POM) for structuring automation tests in Selenium, ensuring maintainability and reusability. The testing covers functionality, usability, and cross-browser/device compatibility, with BDD Cucumber used for clear test specifications.
 
 ## Deployed App :
 The deployed application can be accessed at:
@@ -28,7 +28,7 @@ During testing, defects were logged with detailed information, including steps t
 You can find full bug report [here](<https://docs.google.com/spreadsheets/d/1cM0ohy9t4y2zqhXg4HbOXZhjt4cvc5fd/edit?usp=sharing&ouid=110433349378414708907&rtpof=true&sd=true>).
 
 ## Test Summary Report :
-The test summary report gives an overview of the testing process, including what was tested, the results, and any issues found. It helps to understand the overall quality of the Thirsty Wine website.
+The test summary report gives an overview of the testing process, including what was tested, the results, and any issues found. It helps to understand the overall quality of the Tutorials-Ninja website.
 You can view the detailed test summary report [here](<https://drive.google.com/file/d/1b6vNcbp9k559TL93kNhSmZHR9I8Vp2lj/view?usp=sharing>).
 
 ## Mind Map :
@@ -69,7 +69,7 @@ How to Use the Project for Testing
 
 Access the Website: Visit the website at https://tutorialsninja.com/demo/index.php?route=common/home
 
-Automation with Cypress: Run automated tests using Cypress to verify functionality, UI elements, and ensure smooth user experience across browsers and devices.
+Automation with Selenium: Run automated tests using Selenium to verify functionality, UI elements, and ensure smooth user experience across browsers and devices.
 
 Test Key Features: Go through the core functionalities (registration, login, cart, checkout) and verify if they work as expected.
 
