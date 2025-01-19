@@ -3,7 +3,7 @@
 ## Project Title : Tutorials-Ninja
 
 ## Introduction :
-  The goal of this testing cycle was to verify the functionality, usability, performance, and responsiveness of the Thirsty Wine website. Automated tests were carried out using Cypress     with the Page Object Model (POM) for functional validation, while manual testing focused on  non-functional aspects like user experience and cross-browser compatibility.
+  The goal of this project is to test the functionalities of the Tutorials Ninja web application. This document serves as a high-level test planning document, outlining the scope, test strategy, test schedule, resource requirements, test deliverables, and schedule. The testing will be conducted using Selenium for automation, Cucumber for behavior-driven testing, and Page Object Model (POM) for organizing the code. Additionally, manual testing will be performed for exploratory and usability testing.
 
 ## Project Type :
   This project focuses on both manual and automated testing of the Thirsty Wine website's frontend. It emphasizes the use of the Page Object Model (POM) for structuring automation tests in Cypress, ensuring maintainability and reusability. The testing covers functionality, usability, and cross-browser/device compatibility, with BDD Cucumber used for clear test specifications.
