@@ -25,7 +25,7 @@ You can view the detailed test cases [here](<https://docs.google.com/spreadsheet
 
 ## Bug Reports :
 During testing, defects were logged with detailed information, including steps to reproduce the issue and its severity.This helps track and resolve problems efficiently.
-You can find full bug report [here](<https://docs.google.com/spreadsheets/d/13WWgQgwum5FXErxy-wLRNDfiZ_q61bKp/edit?usp=sharing&ouid=110433349378414708907&rtpof=true&sd=true>).
+You can find full bug report [here](<https://docs.google.com/spreadsheets/d/1cM0ohy9t4y2zqhXg4HbOXZhjt4cvc5fd/edit?usp=sharing&ouid=110433349378414708907&rtpof=true&sd=true>).
 
 ## Test Summary Report :
 The test summary report gives an overview of the testing process, including what was tested, the results, and any issues found. It helps to understand the overall quality of the Thirsty Wine website.
@@ -36,7 +36,7 @@ The mind map provides a visual overview of the testing process, showing how diff
 You can view the detailed mind map [here](<https://drive.google.com/file/d/1IW_VDRKdVkzTqtpl4tMQ60XEZ8GGs-5j/view?usp=sharing>).
 
 ## Video Walkthrough of the project
-This is my video of the project presentation [here](<https://www.youtube.com/watch?v=eeuQV-VCghk>)
+This is my video of the project presentation [here](<https://youtu.be/e7SurTC8bBo>)
 
 
 ## Features
