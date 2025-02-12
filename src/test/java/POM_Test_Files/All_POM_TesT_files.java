@@ -25,7 +25,6 @@ public class All_POM_TesT_files {
 	public void setup() 
 	{
 		driver = new ChromeDriver();
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		driver.get("https://tutorialsninja.com/demo/index.php?route=common/home");
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
